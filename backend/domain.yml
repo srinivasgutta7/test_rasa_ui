@@ -1,0 +1,159 @@
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+- greet
+- goodbye
+- affirm
+- deny
+- bot_challenge
+- thankyou
+- chitchat
+- loan
+- canthelp
+- car_loan
+- bike_loan
+- house_loan
+- personal_loan
+- stop
+- inform
+- submitform
+- proceed
+entities:
+- name
+- person_name
+- type_loan
+- phone_number
+- email_id
+- housing_status
+- other_loans
+- monthly_salary
+- typle_loan
+- (housing_status
+slots:
+  email_id:
+    type: unfeaturized
+  housing_status:
+    type: unfeaturized
+  monthly_salary:
+    type: unfeaturized
+  other_loans:
+    type: unfeaturized
+  person_name:
+    type: unfeaturized
+  phone_number:
+    type: unfeaturized
+  requested_slot:
+    type: unfeaturized
+  type_loan:
+    type: unfeaturized
+responses:
+  utter_accept_go:
+  - text: so here we go I need some of your details
+  utter_ask_email_id:
+  - text: may i know you email id ?
+  utter_ask_housing_status:
+  - text: may i know your housing status
+    buttons:
+    - title: Rented
+      payload: "Rented"
+    - title: own
+      payload: "own"
+    - title: others
+      payload: "others"
+  utter_ask_monthly_salary:
+  - text: may i know your salary ? things are confendtial here
+    buttons:
+    - title: classified
+      payload: "classified"
+  utter_ask_other_loans:
+  - text: may i know you rother bank loans? just a number is enough
+  utter_ask_person_name:
+  - text: may i know your name please
+  utter_ask_phone_number:
+  - text: may i know your phone number
+  utter_ask_type_loan:
+  - text: may i know the type of loan you want
+    buttons:
+    - title: car loan
+      payload: car loan
+    - title: house loan
+      payload: house loan
+    - title: bike loan
+      payload: bike loan
+    - title: gold loan
+      payload: gold loan
+    - title: personal loan
+      payload: personal loan
+  utter_canthelp:
+  - text: sorry i cannot process your application if you deny
+  utter_convence:
+  - text: sir i need that information so that i can proceses your application every
+      information stored with ous is confendtial and subject to privacy with company
+      polices
+  utter_default:
+  - text: “Sorry, Didn’t understand. can you rephrase it”
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_goodbye:
+  - text: Bye
+  utter_greet:
+  - text: Hey! there i am here to help you
+  utter_greet_2:
+  - text: I am here to help you with the loan application
+  utter_greet_ask_loan_premission:
+  - text: Do you want to proceed to application
+    buttons:
+    - title: yes
+      payload: yes
+    - title: no
+      payload: no
+  utter_happy:
+  - text: Great, carry on!
+  utter_iamabot:
+  - text: I am a bot, powered by Rasa.
+  utter_loan_from_accepted_proced_next:
+  - buttons:
+    - title: proceed
+      payload: /proceed
+    - title: submit the form
+      payload: /submitform
+    text: I got your details that are enough to process you application and submit
+      it if you want your application of  {type_loan}  to processe fastly i need some
+      extra information about you want to
+  utter_submit:
+  - text: thanks for filling the form
+  utter_submit_deny:
+  - text: okey your apllication was submited sucssefully thanks for bign with ous
+      i will process you application soon
+  utter_submit_success:
+  - text: thanks for submiting your details our team will get back to you soon have
+      a great day!!
+actions:
+- utter_greet
+- utter_did_that_help
+- utter_happy
+- utter_goodbye
+- utter_iamabot
+- utter_greet_ask_loan_premission
+- utter_greet_2
+- utter_accept_go
+- utter_ask_person_name
+- utter_ask_phone_number
+- utter_ask_email_id
+- utter_ask_type_loan
+- utter_loan_from_accepted_proced_next
+- utter_submit
+- utter_convence
+- utter_submit_deny
+- utter_canthelp
+- action_custom
+- utter_default
+- action_hello_world
+- utter_ask_housing_status
+- utter_ask_monthly_salary
+- utter_ask_other_loans
+- utter_submit_success
+forms:
+- loan_form
+- loan_form2

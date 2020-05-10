@@ -1,0 +1,1044 @@
+## intent:greet
+- Bom dia
+- Bonjour
+- Good Morning
+- Good morning
+- Good mourning
+- Guten Morgen
+- HELLO
+- HEY
+- HEllo
+- HI
+- HI Sara
+- Hallo
+- Hei
+- Hellllooooooo
+- Hello
+- Hello Bot
+- Hello Rasa
+- Hello Sara
+- Hello sara
+- Hello!
+- Hey
+- Hey Sara
+- Hey bot
+- Heya
+- Heylo
+- Hi
+- Hi Sara
+- Hi Sara!
+- Hi bot
+- Hi man
+- Hi rasa
+- Hi sara
+- Hi sara
+- Hi there
+- Hi!
+- Hi'
+- Hi,
+- Hi, bot
+- Hieee
+- Hieeeeeeeeeeeee
+- Hola
+- I said, helllllloooooO!!!!
+- Well hello there ;)
+- What is up?
+- Whats up
+- Whats up my hats up?
+- ayyyy whaddup
+- bonjour
+- ey boss
+- good evening
+- good moring
+- good morning
+- greet
+- greetings
+- hai
+- hallo
+- hallo sara
+- halloo
+- halloooo
+- halo
+- halo sara
+- heeey
+- heelio
+- hell9o
+- hellio
+- hello
+- hello Sara
+- hello everybody
+- hello friend
+- hello hi
+- hello is anybody there
+- hello it is me again
+- hello robot
+- hello sara
+- hello sweatheart
+- hello sweet boy
+- hello there
+- hello world
+- hello, my name is
+- hello?
+- hello]
+- hellooo
+- helloooo
+- helo
+- hey
+- hey bot
+- hey bot!
+- hey dude
+- hey hey
+- hey let's talk
+- hey rasa
+- hey sara
+- hey ther
+- hey there
+- hey there boy
+- hey there
+- hey, let's talk
+- hey, sara!
+- heya
+- heyho
+- heyo
+- hhola
+- hi
+- hi !
+- hi Mister
+- hi again
+- hi can you speak ?
+- hi folks
+- hi friend
+- hi friends
+- hi hi
+- hi i'm
+- hi im
+- hi mrs rasa
+- hi pal!
+- hi sara
+- hi there
+- hi there it's me
+- hi!
+- hi
+- hi?
+- hieee
+- hii
+- hiihihi
+- hiii
+- hlo
+- hola
+- howdy
+- i am
+- jojojo
+- jop
+- konichiwa
+- merhaba
+- ola sara
+- rasa hello
+- salut
+- sup
+- wasssup
+- wasssup!
+- what up
+- whats popping
+- whats up
+- yo
+- yoo
+- hi my name is
+- yoo my name is
+
+## intent:goodbye
+- Bye
+- Bye bye
+- adios
+- adios?
+- bye
+- bye 
+- bye :P
+- bye bot
+- bye bye
+- bye bye bot
+- bye for now
+- bye udo
+- bye was nice talking to you
+- bye!
+- byee
+- catch you later
+- ciao
+- cya
+- farewell
+- good bye
+- good bye rasa bot!
+- good night
+- goodbye
+- goodbye
+- goodnight
+- gotta go
+- k byyye #slay
+- ok Bye
+- ok bye
+- ok, bye
+- okbye
+- see u later
+- see ya
+- see you
+- see you  bye
+- take care
+- then bye
+- tlak to you later
+- toodle-oo
+- Exit
+- Close this talk
+
+## intent:canthelp
+- I think you cant help me
+- and that's it?
+- and you call yourself bot company? pff
+- do you get anything?
+- exit
+- exit now
+- hey, you promised to contact me, but nobody did, I really need to finish that [car](type_loan) insurance bot!!!!
+- hm i don't think you can do what i want
+- i guess you can't help me then
+- nothing else?
+- ok i guess you can't help me
+- ok then you cant help me
+- ok, but that doesnt help me
+- stop
+- stop go back
+- stop this conversation
+- that was shit, you're not helping
+- that's not what i want
+- this conversation is not really helpful
+- this is leading to nothing
+- you can't help me
+- you can't help me with what i need
+- you cannot help me with what I want
+- you cant help me
+- quit
+- xcxvxcvzxczcxz
+- dfsdfsfdsf
+- dsfgsdg
+- jgftvvgytnhbjhbyyhjv,hvhmnnmbnbmbmnbnm
+- dsfsdfsf
+- sdsd
+
+## intent:affirm
+- Accept
+- Awesome!
+- Cool
+- Good
+- Great
+- I accept
+- I accept
+- I agree
+- I am using it
+- I changed my  want to accept it
+- I do
+- I get it
+- I guess so
+- I have used it in the past
+- I will
+- I'd absolutely love that
+- I'm sure I will!
+- I'm using it
+- Nice
+- OK
+- Ofcourse
+- Oh yes
+- Oh, ok
+- Ok
+- Ok let's start
+- Ok
+- Okay
+- Okay!
+- PLEASE
+- SURE
+- Sure
+- Sweet
+- That would be great
+- YES
+- YUP
+- Yea
+- Yeah
+- Yeah sure
+- Yep
+- Yep that's fine
+- Yep!
+- Yepp
+- Yes
+- Yes I do
+- Yes please
+- Yes please!
+- Yes, I accept
+- Yes
+- Yup
+- a little
+- absolutely
+- accept
+- accepted
+- agreed
+- ah ok
+- alright
+- alright, cool
+- amayzing
+- amazing!
+- awesome
+- awesome!
+- confirm
+- cool
+- cool :)
+- cool story bro
+- cool!
+- coolio
+- definitely yes without a doubt
+- done
+- fair enough
+- fcourse
+- fine
+- fuck yeah!
+- go
+- go ahead
+- go for it
+- going super well
+- good
+- good
+- great
+- great lets do that
+- great!
+- hell yeah
+- hell yes
+- hm, i'd like that
+- how nice!
+- i accept
+- i agree
+- i am!
+- i want that
+- i will!
+- it is ok
+- its okay
+- ja
+- ja cool
+- ja thats great
+- jezz
+- jo
+- k
+- kk
+- lets do it
+- lets do this
+- nice
+- not bad
+- of course
+- ofcoure i do
+- ofcourse
+- oh awesome!
+- oh cool
+- oh good !!
+- oh super
+- ok
+- ok cool
+- ok fine
+- ok friend
+- ok good
+- ok great
+- ok i accept
+- ok sara
+- ok, I behave now
+- ok, I understood
+- ok, Sara
+- ok
+- okay
+- okay cool
+- okay sure
+- okay
+- oki doki
+- okie
+- ook
+- oui
+- perfect
+- please
+- si
+- sort of
+- sure
+- sure thing
+- sure!
+- that is cool
+- that ok
+- that sounds fine
+- that's great
+- thats fine
+- thats good
+- thats great
+- top
+- uh-huh
+- very much
+- well yes
+- y
+- ya
+- ya cool
+- ya go for it
+- ya i want
+- ya please
+- ya thats cool
+- yaah
+- yap
+- yaps
+- yas
+- yay
+- ye
+- ye splease
+- yea
+- yeah
+- yeah do that
+- yeah sure
+- yeah'=
+- yeah, why not
+- yeeeeezzzzz
+- yeeees
+- yep
+- yep i want that
+- yep if i have to
+- yep please
+- yep that's nice
+- yep thats cool
+- yep, will do thank you
+- yep :/
+- yes 
+- yes I do
+- yes accept please
+- yes baby
+- yes cool
+- yes give me information
+- yes go ahead
+- yes go for it
+- yes great
+- yes i accept
+- yes i agree
+- yes i have built a bot before
+- yes i have!
+- yes it is
+- yes it was okay
+- yes of course
+- yes pleae
+- yes please
+- yes please!
+- yes pls
+- yes sirfr
+- yes that's great
+- yes that's what i want
+- yes you can
+- yes'
+- yes, I'd love to
+- yes, cool
+- yes, give me information, please
+- yes,i am
+- yes
+- yesh
+- yess
+- yessoo
+- yesss
+- yesssss
+- yesyestyes
+- yesyesyes
+- yez
+- yop
+- you asked me a yes or no question, which i answered with yes
+- you got me, I accept, if you want me to
+- yres
+- ys
+- yup
+- yyeeeh
+- considering
+- That's awesome
+- Got it
+- yes
+
+## intent:proceed
+- proceed
+- i want to go to next one
+- yeah go on
+- go the next form
+- i want to go the application
+
+## intent:deny
+- I don't want to
+- I don't want to give it to you
+- I don't want to say
+- I dont want to tell
+- I'm not giving you my ddress
+- I'm not going to give it to you
+- NEIN
+- NO
+- NO DON"T WANT THIS!
+- Nah
+- Neither
+- Never
+- Nevermind
+- No
+- No thank you
+- No, not really
+- No, thank you
+- No
+- Nopes
+- Not really
+- absolutely not
+- decline
+- definitely not
+- deny
+- i decline
+- i don not like this
+- i don't think so
+- i don't want either of those
+- i don't want to
+- i don't want to give you my  i dont want to
+- i dont want to accept :P lol
+- i guess it means - no
+- i'm afraid not
+- i'm not sure
+- it is going pretty badly
+- it sucks
+- it sux
+- n
+- na
+- nah
+- nah I'm good
+- nah not for me
+- nah, first time
+- nah, i'm good
+- nehi
+- nein
+- neither
+- never
+- never mind
+- no
+- no :(
+- no I dont want
+- no I haven't decided yet if I want to sign up
+- no and no again
+- no bots at all
+- no go
+- no i can't
+- no i don't accept
+- no i dont want to
+- no i dont want to accept :P lol
+- no i won't
+- no ma'am
+- no sir
+- no sorry
+- no thank s
+- no thank you
+- no thanks
+- no way
+- no you did it wrong
+- no!!!!
+- no, i hate it
+- no, my me
+- no, thank you
+- no, thanks
+- no, thankyou
+- no u r idiot
+- non
+- noooooooooo
+- noooooooooooooooooooooooooooooooooooooooo
+- nop
+- nope
+- nope!
+- nope i am good
+- not going well at all
+- not really
+- not right now
+- not yet
+- nö
+- sorry not right now
+- still dont want to tell
+- thanks but no thanks
+- this sucks
+- very bad
+- I do not need help installing
+- I don't wanna tell the of my
+- no stop
+- stop it, i do not care!!!
+
+## intent:thankyou
+- um thank you good bye
+- okay cool uh good bye thank you
+- okay thank you good bye
+- you rock
+- and thats all thank you and good bye
+- thank you and good bye
+- sorry about my s thank you good bye
+- noise thank you good bye
+- thank you goodbye noise
+- okay thank you goodbye
+- uh thank you good bye
+- thank you goodbye
+- thank you goodbye noise thank you goodbye
+- breath thank you goodbye
+- thank you
+- okay thank you
+- thanks goodbye
+- ah thank you goodbye
+- thank you noise
+- thank you good bye
+- breath thank you very much goodbye
+- thanks
+- noise thank you goodbye
+- unintelligible thank you goodbye
+- uh okay thank you good bye
+- thank you bye
+- um okay thank you good bye
+
+## intent:chitchat
+- can you share your boss with me?
+- i want to get to know your owner
+- i want to know the company which designed you
+- i want to know the company which generated you
+- i want to know the company which invented you
+- i want to know who invented you
+- May I ask who invented you?
+- please tell me the company who created you
+- please tell me who created you
+- tell me more about your creators
+- tell me more about your founders
+- Ahoy matey how are you?
+- are you alright
+- are you having a good day
+- Are you ok?
+- are you okay
+- Do you feel good?
+- how are things going
+- how are things with you?
+- How are things?
+- how are you
+- how are you doing
+- how are you doing this morning
+- how are you feeling
+- how are you today
+- How are you?
+- How is the weather today?
+- What's the weather like?
+- How is the weather?
+- What is the weather at your place?
+- Do you have good weather?
+- Is it raining?
+- What's it like out there?
+- Is it hot or cold?
+- Beautiful day, isn't it?
+- What's the weather forecast?
+- Is it quite breezy outside?
+
+## intent:stop
+- ok then you cant help me
+- that was shit, you're not helping
+- you can't help me
+- you can't help me with what i need
+- i guess you can't help me then
+- ok i guess you can't help me
+- that's not what i want
+- ok, but that doesnt help me
+- this is leading to nothing
+- this conversation is not really helpful
+- you cannot help me with what I want
+- I think you cant help me
+- hm i don't think you can do what i want
+- stop
+- stop go back
+- do you get anything?
+- and you call yourself bot company? pff
+- and that's it?
+- nothing else?
+
+## intent:loan
+- i need a loan
+- i need loan
+- loan
+- i want somae loan
+- i need a loan in exchange
+- i need a loan!
+- i need a loan on the house from the bank of england
+- i need money
+- i need insurance
+- i need a credit
+- i need my d
+- i have to borrow
+- i need your loan!
+- i want a loan
+- i'm looking for loan
+- i need a loan, baby!
+- i need a guarantor
+- i need credit
+- i need a loan from you!
+- i need your loan
+- i need the loan, i don't need them anymore!
+- i need credit!
+- i want to borrow your loan?
+- i need a loan
+- i need a bank loan
+- it's a bank loan
+- i need a loan
+- i need a credit from the bank
+- i need to borrow money
+- i need financial support
+- i need a loan, and i 'll pay you
+- a loan from a bank
+- i need a deposit
+- i need the deposit
+- i have to borrow money
+- i need your credit card
+- i want a loan
+- i have to borrow from your bank
+- i need a little loan
+- i need money from the bank
+- i need a loan from the bank
+- i need my count
+- i need money to pay the loan
+- i want to borrow a bank
+- i need a bank loan of £30,000
+
+## intent:inform
+- my name is [akshith](person_name)
+- my name is [Chaitanya](person_name)
+- my name is [damodar](person_name)
+- my name is [ekani](person_name)
+- my name is [fharan](person_name)
+- my name is [ganesh](person_name)
+- my name is [hyper](person_name)
+- my name is [indra](person_name)
+- my name is [Jaques](person_name)
+- my name is [Jayanand](person_name)
+- my name is [Kanta](person_name)
+- my name is [Laksman](person_name)
+- my name is [Madhukar](person_name)
+- my name is [Nagesh](person_name)
+- my name is [Om](person_name)
+- my name is [Panduranga](person_name)
+- my name is [Raju](person_name)
+- my name is [Swami](person_name)
+- my name is [bargav](person_name)  he's
+- my name is [surya](person_name) and i'm going to have a baby!
+- my name is [harshith](person_name)
+- my name is [harshith](person_name)  he's
+- my name's [rama chandra](person_name)  your is ralph, i think
+- my name is [durga](person_name)  and i'm going to be honest with you
+- my name's [priya](person_name)  and i hate my a lot, you know?
+- i have to tell you, my name's [harichandra](person_name)
+- my name is [ramesh](person_name) i 'll be right back
+- my name's [suresh](person_name)  my name's coldblooded!
+- my name's [ramchandra](person_name)
+- my name is [shiva](person_name) and i'm very much looking to meet you
+- i have a person_name's [niklesh](person_name)
+- my name's [reddy](person_name) and i have no idea whose house i'm at,
+- my name's [sheggam harshith](person_name) jim!
+- my name is [naveen namani](person_name) and my name is sarah andersson
+- my name's [harshith](person_name)
+- my name's [surya](person_name) i 'll take care of youi 'll take care
+- my name's [harshith](person_name) i'm the one who taught him how to kill
+- [maxmeier@firmade](email_id)
+- [harshit675@gmailcom](email_id)
+- [botfan@botscom](email_id)
+- [my@rasacom](email_id)
+- [harshith](person_name)
+- [Jane Doe](person_name)
+- [Max Mustermann](person_name)
+- [Max Meier](person_name)
+- [123456](phone_number)
+- [6302953723](phone_number)
+- [+91-9666245749](phone_number)
+- [house loan](type_loan)
+- [[car] loan](type_loan)
+- [personal loan](type_loan)
+- [gold loan](type_loan)
+- [bike loan](type_loan)
+- I need a [car](type_loan) loan
+- and if i need [car](type_loan) loans, i'm gon na borrow it
+- i want a loan for my [car](type_loan)
+- i need a [car](type_loan)
+- i need a loan from the [car](type_loan) company
+- loan to the [car](type_loan)
+- i need a loan, i have a [car](type_loan) , you know what i mean?
+- i need a [car](type_loan) for a loan
+- i want a [car](type_loan) loan
+- i need a loan to buy a [car](type_loan)
+- i need the mortgage to pay the [car](type_loan)
+- i need an lien on the [car](type_loan)
+- i need a loan i want it all
+- i need a [car](type_loan) loan from you, my love
+- i need a loan from the [car](type_loan)
+- i need to borrow some money
+- i need a [car](type_loan) to buy a [car](type_loan)
+- [car](type_loan) loan?
+- i need a [car](type_loan), i need a [car](type_loan)!
+- a [car](type_loan) loan
+- loan to my [car](type_loan)
+- lend a [car](type_loan)
+- my phone number is [966245749](phone_number)
+- the phone number is [866245749](phone_number)
+- my phone number is [766245749](phone_number)
+- my cell phone is [666245749](phone_number)
+- phone number [566245749](phone_number)
+- my number is [366245749](phone_number)
+- phone number [266245749](phone_number)
+- my number's [166245749](phone_number) 
+- i have a phone number of [126245749](phone_number)
+- my phone is [9662457239](phone_number)
+- cell phone number : [9623245749](phone_number)
+- my number is [9662457239](phone_number)
+- i have my number, number [9236245749](phone_number) how much do i need before the phone
+- my phone number's [966245742](phone_number)
+- i'm looking for my phone number [923245749](phone_number)
+- my number's [966245239](phone_number)
+- the number of my phone is [962545749](phone_number)
+- i have numbers from [966245459](phone_number)
+- phone number is [966245767](phone_number)
+- the number of my phone is [966675749](phone_number)
+- my mobile number is [966245749](phone_number)
+- my name is [resh](person_name)
+- my name is [reshmika](person_name)
+- [har@gmailcom](email_id)
+- my name is [ramulamma](person_name)
+- [9666245749](phone_number)
+- [966245749](phone_number)
+- my phone number is [9666245749](phone_number)
+- [sheggamharshit@gmailcom](email_id)
+- my name is [Radika](person_name)
+- [madhavi675@gmailcom](email_id)
+- [Durga](person_name) prasa
+- [madhavi](person_name)
+- [9666345267](phone_number)
+- my name is [rashmitha](person_name)
+- [car](type_loan) loan
+- the loan of the [car](type_loan)
+- [car](type_loan) loan
+- loan from [car](type_loan) loan
+- [car](type_loan) loan ( ky )
+- loan from [car](type_loan)
+- [car](type_loan) credit
+- [car](type_loan) debt a
+- - [car](type_loan) loan
+- [car](type_loan) debt
+- i need a [car](type_loan) loan
+- the [car](type_loan) loan can be arranged
+- i have a [car](type_loan) to borrow
+- i need a loan for a ride
+- i'm going into debt with a [car](type_loan) loan
+- i need money for a [car](type_loan)
+- i need money from the [car](type_loan)
+- i need a new [car](type_loan)
+- i need a loan to buy [car](type_loan) s
+- i need to borrow a [car](type_loan)!
+- i need to borrow a [car](type_loan)
+- i need your [car](type_loan)
+- i need a loan at the dealership
+- a [car](type_loan) loan
+- i need a loan from my i want a loan for my i need a loan from the [car](type_loan) company
+- i need a [car](type_loan) loan from you, my  i need a driver's loan
+- i need a [car](type_loan) to buy a car
+- i need a [car](type_loan), i need a car!
+- i need a loan in [car](type_loan)
+- a [car](type_loan) loan
+- loan to my lend a [car](type_loan)
+- [bike](type_loan)loan
+- the loan of the [house](type_loan)
+- [bike](type_loan)loan
+- loan from [bike](type_loan)loan
+- [credit](type_loan) institution loan
+- [house](type_loan) debt
+- [bike](type_loan) loan ( ky )
+- loan from [bike](typle_loan)
+- [bike](type_loan)
+- [bike](type_loan)debt a
+- the loan of the [bike](typle_loan)
+- loans to finance [bike](type_loan)ownership
+- [[bike](typle_loan)
+- [bike](type_loan)debt
+- i need a [bike](type_loan) loan
+- i need a [bike](typle_loan)
+- the [bike](type_loan)loan can be arranged
+- i have a [bike](type_loan)to borrow
+- i'm going into debt with a [bike](type_loan)loan
+- i need money for a [bike](type_loan)
+- i need money from the [bike](typle_loan)
+- i need a new [bike](typle_loan)
+- i need to borrow a [bike](typle_loan) !
+- [bike](type_loan) loan?
+- i need to borrow a [bike](typle_loan)
+- i need your [bike](typle_loan)
+- a [bike](type_loan)loan
+- and if i need [bike](type_loan) loans, i'm gon na borrow it
+- i need a loan from my  i want a loan for my  i need a loan from the [bike](type_loan)company
+- loan to the [bike](typle_loan)
+- i need a loan, i have a [bike](typle_loan), you know what i mean?
+- i need a [bike](type_loan)for a loan
+- i want a [bike](type_loan)loan
+- i need a loan to buy a [bike](typle_loan)
+- i need the mortgage to pay the [bike](typle_loan)
+- i need an lien on the [bike](typle_loan)
+- i need a loan in [bike](typle_loan)
+- a [bike](type_loan)loan
+- loan to my  lend a [bike](typle_loan)
+- [house](type_loan) loan
+- [house](type_loan) loan
+- loan from [house](type_loan) loan
+- [house](type_loan) loan ( ky )
+- loan from [house](type_loan)
+- [house](type_loan)
+- [house](type_loan) debt a
+- loans to finance [house](type_loan) ownership
+- [credit](type_loan)
+- [house](type_loan) debt
+- i need a [house](type_loan) loan
+- i need a [house](type_loan)
+- the [house](type_loan) loan can be arranged
+- i have a [house](type_loan) to borrow
+- i'm going into debt with a [house](type_loan) loan
+- i need money for a [house](type_loan)
+- i need money from the [house](type_loan)
+- i need a new [house](type_loan)
+- i need a loan to buy [house](type_loan) 
+- i need to borrow a [house](type_loan)!
+- [house](type_loan) loan?
+- i need to borrow a [house](type_loan)
+- i need your [house](type_loan)
+- a [house](type_loan) loan
+- and if i need [house](type_loan) loans, i'm gon na borrow it
+- i need a loan from my - i want a loan for my - i need a loan from the [house](type_loan) company
+- loan to the [house](type_loan)
+- i need a loan, i have a [house](type_loan), you know what i mean?
+- i need a [house](type_loan) for a loan
+- i want a [house](type_loan) loan
+- i need a loan to buy a [house](type_loan)
+- i need the mortgage to pay the [house](type_loan)
+- i need an lien on the [house](type_loan)
+- i need a [house](type_loan) loan from you, my  i need a driver's loan
+- i need a loan from the [house](type_loan)
+- i need a [house](type_loan) to buy a [house](type_loan)
+- i need a [house](type_loan), i need a [house](type_loan)!
+- i need a loan in [house](type_loan)
+- a [house](type_loan) loan
+- loan to my - lend a [house](type_loan)
+- [gold](type_loan) loan
+- the loan of the [gold](type_loan)
+- [credit](type_loan)
+- [credit](type_loan) 
+- loans to finance [gold](type_loan) ownership
+- [gold](type_loan)
+- loan from [gold](type_loan) loan
+- [gold](type_loan)d debt
+- [gold](type_loan) loan ( ky )
+- loan from [gold](type_loan)
+- [gold](type_loan) 
+- [gold](type_loan) debt
+- i need a [gold](type_loan) loan
+- i need a [gold](type_loan)
+- the [gold](type_loan) loan can be arranged
+- i have a [gold](type_loan) to borrow
+- i'm going into debt with a [gold](type_loan) loan
+- i need money for a [gold](type_loan)
+- i need money from the [gold](type_loan)
+- i need a new [gold](type_loan)
+- i need a loan to buy [gold](type_loan) 
+- i need to borrow a [gold](type_loan)!
+- [gold](type_loan) loan?
+- i need to borrow a [gold](type_loan)
+- i need your [gold](type_loan)
+- a [gold](type_loan) loan
+- and if i need [gold](type_loan) loans, i'm gon na borrow it
+- i need a loan from my  i want a loan for my  i need a loan from the [gold](type_loan) company
+- a [gold](type_loan) loan
+- loan to my  lend a [gold](type_loan)
+- [personal](type_loan) loan
+- the loan of the [personal](type_loan)
+- [personal](type_loan) loan
+- loans to finance [personal](type_loan) ownership
+- [credit](type_loan) 
+- loan from [personal](type_loan) loan
+- [personal](type_loan)d debt
+- [personal](type_loan) loan ( ky )
+- loan from [personal](type_loan)
+- [personal](type_loan) 
+- [personal](type_loan) debt a
+- i need a [personal](type_loan) loan
+- i need a [personal](type_loan)
+- i need a loan, so give me your id i'm on the phone
+- the [personal](type_loan) loan can be arranged
+- i have a [personal](type_loan) to borrow
+- i need a [personal](type_loan)d
+- i'm going into debt with a [personal](type_loan) loan
+- i need money for a [personal](type_loan)
+- i need money from the [personal](type_loan)
+- i need a new [personal](type_loan)
+- i need a loan to buy [personal](type_loan)s
+- i need to borrow a [personal](type_loan)
+- [personal](type_loan) loan?
+- i need to borrow a [personal](type_loan)
+- i need your [personal](type_loan)
+- a [personal](type_loan) loan
+- and if i need [personal](type_loan) loans, i'm gon na borrow it
+- i need a loan from the [personal](type_loan) company
+- loan to the [personal](type_loan)
+- i need [credit](type_loan)
+- i need a loan, i have a [personal](type_loan) , you know what i mean?
+- i need a [personal](type_loan) for a loan
+- i want a [personal](type_loan) loan
+- i need a loan to buy a [personal](type_loan)
+- i need the mortgage to pay the [personal](type_loan)
+- i need some [credit](type_loan)
+- i need a loan in london
+- a [personal](type_loan) loan
+- lend a [personal](type_loan)
+- [harshith675@gmailcom](person_name)
+- [Rented](housing_status)
+- [own](housing_status)
+- [others](housing_status)
+- i have a [own house](housing_status) 
+- i stay at [rent house](housing_status)
+- [1](other_loans)
+- i have [two](other_loans) loans
+- [2](other_loans)
+- [three](other_loans) loans
+- [$000](monthly_salary)
+- [$1000](monthly_salary)
+- [1 million](monthly_salary)
+- [1 million](monthly_salary) big ones
+- [10 m](monthly_salary)
+- [1000000](monthly_salary)
+- [1000](monthly_salary)
+- [1000](monthly_salary)
+- [100](monthly_salary) 
+- [10](monthly_salary)
+- [10k](monthly_salary) 
+- [12000](monthly_salary)
+- [1231](monthly_salary) 
+- [12](monthly_salary) 
+- [2 million](monthly_salary)
+- [200 bucks](monthly_salary)
+- [20000](monthly_salary)
+- [20000](monthly_salary)
+- [20000](monthly_salary)
+- [2000k](monthly_salary)
+- [200k](monthly_salary)
+- [25,00](monthly_salary)
+- [300 rupees](monthly_salary)
+- [30000](monthly_salary)
+- [300k](monthly_salary)
+- [3500 m](monthly_salary)
+- [50000](monthly_salary)
+- [5000](monthly_salary)
+- [500k](monthly_salary)
+- [50 p](monthly_salary)
+- [5 quid](monthly_salary)
+- [60000](monthly_salary)
+- [900 dollars](monthly_salary)
+- [90k](monthly_salary) 
+- [99](monthly_salary)
+- i earn [100k](monthly_salary)
+- my income is [100 million](monthly_salary)
+- [classified](monthly_salary)
+
+## intent:submitform
+- no i want to submit the from
+- just submit the form
+- deny
+- no submit it
+- no i dont give any extra information
+- submitform
+- dubmit form
