@@ -215,12 +215,21 @@
 - you cannot help me with what I want
 - you cant help me
 - quit
+
+## intent:unknow
 - xcxvxcvzxczcxz
 - dfsdfsfdsf
 - dsfgsdg
 - jgftvvgytnhbjhbyyhjv,hvhmnnmbnbmbmnbnm
 - dsfsdfsf
 - sdsd
+
+## intent:slotreset
+- restart
+- slotreset
+- reset 
+- start again 
+- fresh
 
 ## intent:affirm
 - Accept
@@ -862,9 +871,6 @@
 - [bike](type_loan) loan?
 - i need to borrow a [bike](typle_loan)
 - i need your [bike](typle_loan)
-- a [bike](type_loan)loan
-- and if i need [bike](type_loan) loans, i'm gon na borrow it
-- i need a loan from my  i want a loan for my  i need a loan from the [bike](type_loan)company
 - loan to the [bike](typle_loan)
 - i need a loan, i have a [bike](typle_loan), you know what i mean?
 - i need a [bike](type_loan)for a loan
@@ -895,12 +901,10 @@
 - i need a new [house](type_loan)
 - i need a loan to buy [house](type_loan) 
 - i need to borrow a [house](type_loan)!
-- [house](type_loan) loan?
 - i need to borrow a [house](type_loan)
 - i need your [house](type_loan)
 - a [house](type_loan) loan
 - and if i need [house](type_loan) loans, i'm gon na borrow it
-- i need a loan from my - i want a loan for my - i need a loan from the [house](type_loan) company
 - loan to the [house](type_loan)
 - i need a loan, i have a [house](type_loan), you know what i mean?
 - i need a [house](type_loan) for a loan
@@ -910,15 +914,11 @@
 - i need an lien on the [house](type_loan)
 - i need a [house](type_loan) loan from you, my  i need a driver's loan
 - i need a loan from the [house](type_loan)
-- i need a [house](type_loan) to buy a [house](type_loan)
-- i need a [house](type_loan), i need a [house](type_loan)!
 - i need a loan in [house](type_loan)
 - a [house](type_loan) loan
 - loan to my - lend a [house](type_loan)
 - [gold](type_loan) loan
 - the loan of the [gold](type_loan)
-- [credit](type_loan)
-- [credit](type_loan) 
 - loans to finance [gold](type_loan) ownership
 - [gold](type_loan)
 - loan from [gold](type_loan) loan
@@ -949,7 +949,6 @@
 - the loan of the [personal](type_loan)
 - [personal](type_loan) loan
 - loans to finance [personal](type_loan) ownership
-- [credit](type_loan) 
 - loan from [personal](type_loan) loan
 - [personal](type_loan)d debt
 - [personal](type_loan) loan ( ky )
@@ -986,21 +985,22 @@
 - a [personal](type_loan) loan
 - lend a [personal](type_loan)
 - [harshith675@gmailcom](person_name)
-- [Rented](housing_status)
+- [rented](housing_status)
 - [own](housing_status)
 - [others](housing_status)
 - i have a [own house](housing_status) 
 - i stay at [rent house](housing_status)
-- [1](other_loans)
+- [one](other_loans)
 - i have [two](other_loans) loans
-- [2](other_loans)
-- [three](other_loans) loans
+- [two](other_loans)
+- [three](other_loans)
+- [four](other_loans)
 - [$000](monthly_salary)
 - [$1000](monthly_salary)
-- [1 million](monthly_salary)
+- i earn a [1 million](monthly_salary)
 - [1 million](monthly_salary) big ones
 - [10 m](monthly_salary)
-- [1000000](monthly_salary)
+- [1000000](monthly_salary) is my salary 
 - [1000](monthly_salary)
 - [1000](monthly_salary)
 - [100](monthly_salary) 
@@ -1017,7 +1017,7 @@
 - [2000k](monthly_salary)
 - [200k](monthly_salary)
 - [25,00](monthly_salary)
-- [300 rupees](monthly_salary)
+- [300 rupees](monthly_salary) is my salary 
 - [30000](monthly_salary)
 - [300k](monthly_salary)
 - [3500 m](monthly_salary)

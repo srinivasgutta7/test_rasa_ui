@@ -41,6 +41,14 @@ services:
         - ./actions:/app/actions
       ports:
         - "4000:4000" 
+    action_chat_restart:
+      container_name: "action_chat_restart"
+      build: 
+        context: actions
+      volumes:
+        - ./actions:/app/actions
+      ports:
+        - "4055:4055" 
     action_hello_world:
       container_name: "action_hello_world"
       build: 

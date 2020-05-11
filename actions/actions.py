@@ -13,7 +13,8 @@ import requests
 from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 from rasa_sdk.forms import FormAction
-from rasa_sdk.events import AllSlotsReset
+from rasa_sdk.events import AllSlotsReset,Restarted
+
 
 class ActionHelloWorld(Action):
 
@@ -24,7 +25,7 @@ class ActionHelloWorld(Action):
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         
-        dispatcher.utter_message(text="Hey! How are you?")
+        dispatcher.utter_message(text="Your conversation has been restarted")
 
         return [AllSlotsReset()]
 
@@ -86,3 +87,11 @@ class loanForm2(FormAction):
         domain: Dict[Text, Any], ) -> List[Dict]:
         dispatcher.utter_message(template="utter_submit2")
         return []
+
+
+
+class ActionRestarted(Action):
+    def name(self):
+        return "action_chat_restart"
+    def run(self,dispatcher,tracker,domain):
+        return[Restarted()]

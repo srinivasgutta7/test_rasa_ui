@@ -19,6 +19,8 @@ intents:
 - inform
 - submitform
 - proceed
+- unknow
+- slotreset
 entities:
 - name
 - person_name
@@ -29,7 +31,6 @@ entities:
 - other_loans
 - monthly_salary
 - typle_loan
-- (housing_status
 slots:
   email_id:
     type: unfeaturized
@@ -55,8 +56,8 @@ responses:
   utter_ask_housing_status:
   - text: may i know your housing status
     buttons:
-    - title: Rented
-      payload: "Rented"
+    - title: rented
+      payload: "rented"
     - title: own
       payload: "own"
     - title: others
@@ -67,7 +68,16 @@ responses:
     - title: classified
       payload: "classified"
   utter_ask_other_loans:
-  - text: may i know you rother bank loans? just a number is enough
+  - text: may i know your other bank loans? 
+    buttons:
+    - title: one
+      payload: "one"
+    - title: two
+      payload: "two"
+    - title: three
+      payload: "three"
+    - title: four
+      payload: "four"
   utter_ask_person_name:
   - text: may i know your name please
   utter_ask_phone_number:
@@ -154,6 +164,7 @@ actions:
 - utter_ask_monthly_salary
 - utter_ask_other_loans
 - utter_submit_success
+- action_chat_restart
 forms:
 - loan_form
 - loan_form2
