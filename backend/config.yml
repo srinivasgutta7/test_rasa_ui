@@ -12,7 +12,15 @@ pipeline:
     min_ngram: 1
     max_ngram: 4
   - name: DIETClassifier
-    epochs: 50    
+    hidden_layers_sizes:
+      text: [256, 128]
+      label: []
+    intent_classification: True
+    entity_recognition: False
+    use_masked_language_model: False
+    BILOU_flag: False
+    number_of_transformer_layers: 0
+    #epochs: 50    
   - name: EntitySynonymMapper
   - name: ResponseSelector
     epochs: 50
